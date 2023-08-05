@@ -1,1 +1,1 @@
-Movie Recommender System
+Movie Recommender System (Content Based)
